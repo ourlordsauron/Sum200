@@ -1,0 +1,9 @@
+C:\Users\italm\source\repos\Sum200\Sum200\bin\Debug\Sum200.exe
+C:\Users\italm\source\repos\Sum200\Sum200\bin\Debug\Sum200.pdb
+C:\Users\italm\source\repos\Sum200\Sum200\obj\Debug\Sum200.csprojAssemblyReference.cache
+C:\Users\italm\source\repos\Sum200\Sum200\obj\Debug\Sum200.FormMain.resources
+C:\Users\italm\source\repos\Sum200\Sum200\obj\Debug\Sum200.Properties.Resources.resources
+C:\Users\italm\source\repos\Sum200\Sum200\obj\Debug\Sum200.csproj.GenerateResource.cache
+C:\Users\italm\source\repos\Sum200\Sum200\obj\Debug\Sum200.csproj.CoreCompileInputs.cache
+C:\Users\italm\source\repos\Sum200\Sum200\obj\Debug\Sum200.exe
+C:\Users\italm\source\repos\Sum200\Sum200\obj\Debug\Sum200.pdb
